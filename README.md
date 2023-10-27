@@ -1,6 +1,11 @@
 # McDonald-s-DB
 McDonald's Database Simulation
 
+**Contributors:**
+- Vincenzo Bucciero
+- Camilla De Martina
+- Noemi Ruocco
+
 # Introduction:
 Welcome to the McDonald's Database Simulation Project! This repository hosts a comprehensive simulation of a database system tailored for McDonald's, the renowned fast-food chain. This project aims to create a realistic representation of McDonald's operations through a well-designed database schema, detailed entity relationships, and optimized queries. The contributors to this project are Vincenzo Bucciero, Camilla De Martina, and Noemi Ruocco.
 
@@ -43,8 +48,8 @@ cd McDonalds-Database-Simulation
 We welcome contributions from the community! If you have ideas, bug fixes, or improvements to suggest, please follow these steps:
 
   * Fork the repository and create your branch: git checkout -b feature/your-feature.
-    * Commit your changes: git commit -m 'Add your feature'.
-    * Push to the branch: git push origin feature/your-feature.
-    *Create a pull request, describing your changes in detail and explaining their purpose.
+  * Commit your changes: git commit -m 'Add your feature'.
+  * Push to the branch: git push origin feature/your-feature.
+  * Create a pull request, describing your changes in detail and explaining their purpose.
 
 Thank you for being a part of this exciting McDonald's Database Simulation project! Let's work together to create a robust and realistic representation of McDonald's database operations. 🍟🍔
