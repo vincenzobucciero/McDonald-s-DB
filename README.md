@@ -28,7 +28,7 @@ Clone the Repository:
 git clone <repository_url.git>
 ```
 ```
-cd McDonalds-Database-Simulation
+cd McDonald-s-DB
 ```
 
 # Database Setup:
