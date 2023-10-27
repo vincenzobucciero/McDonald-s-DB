@@ -3,7 +3,7 @@ McDonald's Database Simulation
 
 **Contributors:**
 - Vincenzo Bucciero
-- Camilla De Martina
+- Camilla De Martino
 - Noemi Ruocco
 
 # Introduction:
